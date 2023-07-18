@@ -1,4 +1,4 @@
-Hi there, I'm Visay!
+Hi, I'm Visay!
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vsvang87&show_icons=true&theme=radical" />
 
